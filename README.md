@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Anique51
-- 👀 I’m interested in Programming and Gaming.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on app development projects
-- 📫 You can e-mail me at 'aneeqmalik055@gmail.com'.
+👋 Hello, I'm Aneeq Ashraf!
 
-<!---
-Anique51/Anique51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Software Engineer | 💻 Front-End Developer | 📱 Mobile App Enthusiast
+
+🎓 Data Science Under-Graduate | 🌱 Lifelong Learner
+
+🔭 Exploring the world of code and technology, one project at a time.
+
+🌟 Passionate about building innovative and user-friendly applications.
+
+🛠️ Open for Collaboration on app development Projects.
+
+📚 Love to share knowledge and learn from the amazing developer community.
+
+🎯 Constantly improving my coding skills and aiming to make a positive impact.
+
+🌐 Connect with me on LinkedIn www.linkedin.com/in/
+aneeq-ashraf-74bb56247 and let's grow together!
+
+Happy coding! 😄

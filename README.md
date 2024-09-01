@@ -1,20 +1,17 @@
 👋 Hello, I'm Aneeq Ashraf!
 
-🚀 Software Engineer | 💻 Front-End Developer | 📱 Mobile App Enthusiast
+🚀 Python Developer | 💻 Front-End Developer | 🤖 AI & ML Enthusiast
 
 🎓 Data Science Under-Graduate | 🌱 Lifelong Learner
 
-🔭 Exploring the world of code and technology, one project at a time.
+🔭 Exploring the realms of Data Science, Machine Learning, and AI, one project at a time.
 
-🌟 Passionate about building innovative and user-friendly applications.
+🌟 Passionate about leveraging data to build innovative and intelligent applications.
 
-🛠️ Open for Collaboration on app development Projects.
+🛠️ Open for Collaboration on AI, ML, and data-driven projects.
 
-📚 Love to share knowledge and learn from the amazing developer community.
+📚 Eager to share knowledge and learn from the vibrant tech community.
 
-🎯 Constantly improving my coding skills and aiming to make a positive impact.
+🎯 Continuously enhancing my skills in data science and AI, aiming to make a meaningful impact.
 
-🌐 Connect with me on LinkedIn www.linkedin.com/in/
-aneeq-ashraf-74bb56247 and let's grow together!
-
-Happy coding! 😄
+🌐 Connect with me on LinkedIn [Aneeq Ashraf](https://www.linkedin.com/in/aneeq-ashraf-74bb56247) and let's grow together!

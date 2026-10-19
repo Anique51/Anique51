@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & AI Engineer** based in Lahore, Pakistan.
 
-- 💼 Associate Software Engineer at **Horizon IT Solutions**, building web applications with ASP.NET Core, Next.js, and Nest.js
+- 💼 Full Stack Engineer at **Horizon IT Solutions**, building web applications with ASP.NET Core, Next.js, and Nest.js
 - 🤖 Building AI-powered applications with Python, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)
 - 🎓 BS Data Science graduate from Air University, with a background in machine learning, deep learning, computer vision, and NLP
 - 🌱 Currently deepening my skills in LLM evaluation, retrieval systems, and cloud deployment

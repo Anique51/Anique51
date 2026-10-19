@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 ### Hi, I'm Aneeq Ashraf 👋
 
 **Full-Stack Developer & AI Engineer** based in Lahore, Pakistan.
@@ -35,4 +34,3 @@ cat > README.md << 'EOF'
 I'm open to software engineering and AI opportunities, and I enjoy discussing retrieval systems, LLM applications, and full-stack development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aneeq%20Ashraf-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeq-ashraf-74bb56247)
-EOF
